@@ -1,8 +1,8 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Youtube](https://www.youtube.com/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Youtube](https://www.youtube.com/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot-youtube.png)
 
 ## Install
 
@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Leonardo Lima](https://github.com/leozz37.png?size=100)](https://github.com/leozz37) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Leonardo Lima](https://github.com/leozz37)                                               |
 
 ## Community
 
