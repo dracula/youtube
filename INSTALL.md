@@ -8,8 +8,6 @@
 
 - Once installed, it will replace the default theme for Dracula!
 
-![Youtube Screenshot](./screenshot-youtube.png)
-
 #### Install manually
 
 You can find a link to the css that you'll need to manually inject on Stylus [here](https://github.com/dracula/youtube/blob/main/dracula.user.css).
