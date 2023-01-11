@@ -132,4 +132,9 @@ paper-toggle-button[checked]:not([disabled]) .toggle-bar.paper-toggle-button
 .sbfl_b {
      color: #8be9fd;   
 }
+    
+/* hide weird glow behind player */
+#cinematics {
+    display: none;
+}
 }
