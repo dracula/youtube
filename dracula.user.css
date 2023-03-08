@@ -129,5 +129,9 @@
 
   .sbfl_b {
     color: #8be9fd;
+}
+  
+  #cinematics {
+    display: none;
   }
 }
